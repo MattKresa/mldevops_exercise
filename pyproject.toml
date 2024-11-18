@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mldevops_exercise"
+version = "0.1.0"
+description = "ML Devops Exercise"
+authors = ["MattKresa <mateuszkresa0709@gmail.com>"]
+readme = "README.md"
+
+packages = [
+    { include = "mldevops_exercise" }
+]
+
+include = ["mldevops_exercise/AML_lab1_lab2.ipynb"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
