@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-11-18T17:04:46.705349Z",
+  "program": "Machine%20Learning%20Development%20Operations%20-%20Versioning%20%26%20Logging.ipynb",
+  "git": {
+    "remote": "git@github.com:MattKresa/mldevops_exercise.git",
+    "commit": "36cadddf6d057f239471389bc7e87ec58250980a"
+  },
+  "email": "mateuszkresa0709@gmail.com",
+  "root": "/content/ws/mldevops_exercise",
+  "host": "22b917be3309",
+  "username": "root",
+  "executable": "/usr/bin/python3",
+  "colab": "https://colab.research.google.com/notebook#fileId=1apOXAq-dgd702NsAJ61oEyGzqIBbm6L2",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "disk": {
+    "/": {
+      "total": "115658190848",
+      "used": "35165794304"
+    }
+  },
+  "memory": {
+    "total": "13609431040"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  }
+}
